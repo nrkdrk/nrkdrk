@@ -1,3 +1,5 @@
+<p align="center"><a href="https://nrkdrk.com" target="_blank"><img src="https://nrkdrk.com/assets/images/banner.png" width="400"></a></p>
+
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Software Engineer | Senior Software Developer Problem solver and Fixer</h3>
 
