@@ -7,6 +7,9 @@
 <p align="left">
 <a href="https://nrkdrk.com" target="blank"><img align="center" src="https://nrkdrk.com/assets/favicon.ico" alt="7609289" height="30" width="40" /></a>
 <a href="https://kernelblog.org/author/nrkdrk/" target="blank" alt="KernelBlog"><img align="center" src="https://nrkdrk.com/assets/favicon.ico" alt="7609289" height="30" width="40" /></a>
+<a href="https://medium.com/@nrkdrk" target="blank" alt="KernelBlog"><img align="center" src="https://nrkdrk.com/assets/favicon.ico" alt="7609289" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/nrkdrkdeveloper" target="blank" alt="KernelBlog"><img align="center" src="https://nrkdrk.com/assets/favicon.ico" alt="7609289" height="30" width="40" /></a>
+  <a href="https://www.r10.net/profil/151035-nrkdrk.html" target="blank" alt="KernelBlog"><img align="center" src="https://nrkdrk.com/assets/favicon.ico" alt="7609289" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7609289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7609289" height="30" width="40" /></a>
 <a href="https://medium.com/nrkdrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nrkdrk" height="30" width="40" /></a>
 </p>
