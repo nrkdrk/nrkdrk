@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nrkdrk&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://nrkdrk.com">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkdrk&layout=compact&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrkdrk&theme=tokyonight" />
 </a>
 <h1 align="center">Hi 👋, I'm Berk</h1>
 <h3 align="center">Software Engineer | Senior Software Developer Problem solver and Fixer</h3>
