@@ -1,7 +1,7 @@
 <samp>
   <h1 align="center" style="color:#a795c8;text-shadow: 3px 4px 4px rgb(52,34,88);">Hi, I am Berk CAN, Also known as nrkdrk</h1>
 <p align="center"><a href="https://nrkdrk.com" target="_blank"><img src="https://nrkdrk.com/assets/images/banner.png" width="100%"></a></p>
-<h3 align="center">Software Engineer | Senior Software Developer Problem solver and Fixer</h3>
+<h3 align="center">Software Engineer | Mid Level Software Developer Problem solver and Fixer</h3>
 
   <details align="center">
     <summary style="font-weight: bold; font-size: 18px">
